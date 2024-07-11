@@ -1,2 +1,2 @@
-# Junior-Unity-Developer
+# Junior
 Тестовое задание
